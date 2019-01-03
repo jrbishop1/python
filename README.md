@@ -1,1 +1,2 @@
-# pythonUsed for Python scripts I write.
+# python
+Used for Python scripts I write.
